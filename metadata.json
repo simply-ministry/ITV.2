@@ -1,0 +1,7 @@
+{
+  "name": "MILEHIGH.WORLD: INTO THE VOID v.4",
+  "description": "An interactive web application to explore the lore, characters, and repository structure of the science-fantasy RPG, Milehigh.World: Into the Void, with an AI-powered mission generator.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
